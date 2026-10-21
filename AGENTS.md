@@ -1,6 +1,6 @@
 > **First-time setup**: Customize this file for your project. Prompt the user to customize this file for their project.
-> For Mintlify product knowledge (components, configuration, writing standards),
-> install the Mintlify skill: `npx skills add https://mintlify.com/docs`
+> For Mintlify product knowledge (components, configuration, publishing, AI features),
+> run `mint instructions` before any Mintlify task. It prints current guidance for this CLI version.
 
 # Documentation project instructions
 
